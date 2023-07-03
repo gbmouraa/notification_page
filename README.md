@@ -9,8 +9,8 @@ Users should be able to:
 
 ### Screenshot
 
-![]()
-![]()
+![](assets/screen-shots/screenshot1.png)
+![](assets/screen-shots/screenshot2.png)
 
 ### Links
 
