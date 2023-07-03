@@ -13,7 +13,7 @@ body {
   height: 100vh;
   font-family: "Plus Jakarta Sans", sans-serif;
   font-size: 1.6rem;
-  background-color: hsl(211, 68%, 94%);
+  background-color: rgb(187, 197, 202);
   display: flex;
   justify-content: center;
   align-items: flex-start;
@@ -60,6 +60,7 @@ p {
   padding: 0 1.2rem;
   max-width: 72rem;
   border-radius: 1.2rem;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 @media screen and (min-width: 670px) {
   .card {

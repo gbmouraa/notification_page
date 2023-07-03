@@ -1,7 +1,3 @@
-# Frontend Mentor - Notifications page solution
-
-This is a solution to the [Notifications page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
 ### The challenge
 
 Users should be able to:
@@ -18,10 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [https://github.com/gbmouraa/notification_page](https://github.com/gbmouraa/notification_page)
+- Live Site URL: [https://gbmouraa.github.io/notification_page/](https://gbmouraa.github.io/notification_page/)
 
 ### Built with
 
@@ -38,4 +32,5 @@ This was my first time using jQuery in a project, so I could learn more about ho
 
 ## Author
 
-- Frontend Mentor - [@ygbmouraa](https://www.frontendmentor.io/profile/gbmouraa)
+- Frontend Mentor - [@gbmouraa](https://www.frontendmentor.io/profile/gbmouraa)
+- Linkedin - [Gabriel Moura](https://www.linkedin.com/in/gabriel-moura-b63382161/)
